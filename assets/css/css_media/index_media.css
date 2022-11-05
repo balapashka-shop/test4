@@ -52,6 +52,16 @@
     #img9, #img10 {
         background-position: left;
     }
+    #block2 {
+        display: none;
+    }
+    .block {
+        height: 600px;
+        flex-basis: 48%;
+    }
+    .wrapper-block {
+        margin: 50px 80px;
+    }
 }
 
 @media only screen and (max-width: 992px) {
