@@ -115,4 +115,14 @@
     .assets-img .stock {
         font-size: 35px;
     }
+    #block2 {
+        display: none;
+    }
+    .block {
+        height: 600px;
+        flex-basis: 48%;
+    }
+    .wrapper-block {
+        margin: 50px 80px;
+    }
 }
